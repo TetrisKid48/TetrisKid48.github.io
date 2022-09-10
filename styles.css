@@ -5,6 +5,7 @@
 	top: 0; /* Stay at the top */
 	left: 0;
 	overflow-x: hidden; /* Disable horizontal scroll */
+	overflow: hidden; /* Disable vertical scroll */
 	padding-top: 20px;
 }
 .sidenavR {
@@ -14,6 +15,7 @@
 	top: 0; /* Stay at the top */
 	right: 0;
 	overflow-x: hidden; /* Disable horizontal scroll */
+	overflow: hidden; /* Disable vertical scroll */
 	padding-top: 10px;
 }
 .aligncenter {
