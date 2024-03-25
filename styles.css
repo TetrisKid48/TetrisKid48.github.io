@@ -25,3 +25,7 @@
 	margin-left: 200px;
 	margin-right: 200px;
 }
+
+@font-face { font-family: frankfurter; src: url('OPTIFrankfurter-Medium.otf'); }
+
+	p { font-family:frankfurter }
