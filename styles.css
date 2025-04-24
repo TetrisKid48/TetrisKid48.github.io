@@ -16,6 +16,7 @@
 	overflow: hidden; /* Disable scroll */
 	padding-top: 10px;
 }
+
 .aligncenter {
 	width: 100%;
 	text-align: center;
@@ -26,6 +27,15 @@
 	margin-right: 200px;
 }
 
+.tablesquare{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+}
+
 @font-face { font-family: frankfurter; src: url('OPTIFrankfurter-Medium.otf'); }
 
 	p { font-family:frankfurter }
+	ul { font-family:frankfurter }
+	
+@font-face { font-family: wiifont; src: url('contm.ttf'); }
